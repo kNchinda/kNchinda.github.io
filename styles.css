@@ -1,0 +1,43 @@
+/* all of your css goes here */
+h1{
+  color:green;
+  font-size: 70px; 
+  font-family: geo;
+  text-align: center;
+}
+
+h2{
+  color:darkgreen;
+  font-size: 50px; 
+  font-family: geo;
+  text-align: center;
+
+}
+
+p{
+  color:black;
+  font-size: 31px;
+  font-family: geo; 
+  text-align: center;
+}
+
+img{
+  border-style: solid;
+  border-color: green;
+  border-width: 20px;
+  border-radius: 10%;
+}
+
+h3{
+  color:darkgreen;
+  font-size: 50px; 
+  font-family: geo;
+  text-align: center;
+}
+
+p2{
+  color:black;
+  font-size: 31px;
+  font-family: geo; 
+  text-align: center;
+}
